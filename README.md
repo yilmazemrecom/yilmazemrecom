@@ -9,7 +9,7 @@ Cyber Security Researcher
 *   ✉️  You can contact me at [emre@emreylmz.com](mailto:emre@emreylmz.com)
 *   🕸️  [KernelBlog](http://kernelblog.org) that I voluntarily author and co-founder <br><br>
 <a href="https://www.twitter.com/delosemre" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/delosemre?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
-<a href="https://www.github.com/emreylmzcom" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/delosemre?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/emreylmzcom" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/emreylmzcom?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
