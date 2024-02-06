@@ -1,7 +1,7 @@
 Hi 👋 My name is EMRE YILMAZ
 ============================
 
-Cyber Security Researcher
+Researcher
 -------------------------
 
 *   🌍  I'm based in Giresun/Turkey
